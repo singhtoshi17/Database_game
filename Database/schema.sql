@@ -139,6 +139,7 @@ INSERT IGNORE INTO games (game_name, genre, platform) VALUES
     ('BGMI',         'Battle Royale', 'Mobile'),
     ('EA SPORTS FC', 'Sports',        'PC/Console'),
     ('Chess',        'Strategy',      'Online');
+ojas
 
 
 
